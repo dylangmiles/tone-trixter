@@ -1,0 +1,49 @@
+title: Tone Trixter
+description: >-
+  Turning a $7 codec chip into a $300 studio microphone — a real-time
+  guitar-pedal build log. Built in Cape Town, South Africa.
+author: Dylan Miles
+
+# Project site lives at https://dylangmiles.github.io/tone-trixter/
+# Moved here from /pico-tone-trixter on 2026-08-13 so the build log can span
+# both hardware platforms; the old path serves redirects.
+# NOTE: the Actions build passes --baseurl from the Pages API, which overrides
+# the value below. It matters for local `bundle exec jekyll serve` only.
+url: "https://dylangmiles.github.io"
+baseurl: "/tone-trixter"
+
+theme: minima
+# Dark palette is applied via assets/main.scss (minima 2.5 has no built-in skins).
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap   # generates /sitemap.xml (+ robots.txt) for Google Search Console
+
+# Search Console HTML-tag verification — jekyll-seo-tag emits the
+# <meta name="google-site-verification"> tag in every page's <head>.
+google_site_verification: JaFouvFuKEnFRojpttTpXpunyvV97YzRMqqS0eay-qw
+
+# Posts are a folder-per-episode collection (each with co-located assets),
+# rather than the flat _posts convention.
+collections:
+  episodes:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: episodes
+    values:
+      layout: episode
+
+# Keep the firmware repo's own files and per-episode social copy out of the build.
+# Audio (LFS-tracked wav) IS copied into _site: the GitHub Actions build checks out
+# LFS (lfs: true), so the real binaries get baked in and are served as ordinary
+# Pages CDN assets via relative links — LFS bandwidth is only touched at build time.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - "_episodes/**/social.md"
+  - README.md
