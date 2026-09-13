@@ -96,7 +96,7 @@ Sixty-five to at least ninety-six, on either power source, and the "at least" is
 
 That reframes what the graph is for. When it read 51 and I was planning a proper printed circuit board, the board's job was to fix the noise. The noise turned out to be the room, and a roll of copper tape fixed the room. What's left inside the pedal, now that I can hear it, is a faint tick once a second when the level meters are on and the display repaints — thirty decibels louder than anything else in there, and exactly the kind of thing a ground plane on a real board is for. Different problem, same board.
 
-![The finished pedal closed up on the cutting mat — white box, red stripe, two footswitches and the small display window — with a cable in each side, a small black power supply cabled to it, and a pair of headphones and a multimeter beside it.](assets/closed-on-the-mat.jpg)
+![The finished pedal closed up on the cutting mat, seen from the front — white box, red stripe across it, two footswitches below the small display window — with a cable in each side, a small black power supply cabled to it, a pair of headphones to the left, and a multimeter and a hot-glue gun on the bench behind.](assets/closed-on-the-mat.jpg)
 
 The electronics were this quiet a month ago. The box is what lets you see it.
 
