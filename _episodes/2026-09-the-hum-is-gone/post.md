@@ -1,6 +1,6 @@
 ---
 title: "The Hum Is Gone"
-subtitle: "The new board measured thirty decibels quieter. The graph barely moved. Then the copper went in."
+subtitle: "The new board measured thirty decibels quieter. The graph barely moved. And then the copper went in."
 episode: 6
 date: 2026-09-13
 permalink: /episodes/2026-09-the-hum-is-gone/
