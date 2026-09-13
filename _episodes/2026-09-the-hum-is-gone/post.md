@@ -48,7 +48,7 @@ The plan for the box was a battery compartment, a USB extender out to the panel,
 
 So: mechanical first, measure; lining second, measure again.
 
-![The bottom half of the pedal enclosure, opened out flat on a cutting mat, before any copper. A black 9 V battery holder is mounted in the middle with red and black leads running to a DC socket in the wall and off to the board. A small pencilled "6" is visible on the plastic.](assets/battery-box.jpg)
+![The bottom half of the pedal enclosure, opened out flat on a cutting mat, before any copper. A black 9 V battery holder is mounted in the middle with red and black leads running to a DC socket in the bottom wall and off to the left, to the board. A small pencilled "6" is visible on the plastic.](assets/battery-box.jpg)
 
 ![The underside of the top half, showing a USB-C panel extender bolted through the wall on the left, its cable snaking across to a small purple right-angle adapter at the top right — a test fit, checking the adapter would clear the board before anything was cut. Two red footswitches sit at the bottom with their leads.](assets/usb-extender.jpg)
 
@@ -60,7 +60,7 @@ Then the copper.
 
 Both halves lined with adhesive copper tape, the halves jumpered together, and **one** wire from the lining to a ground pin on the board. One, and only one: a second contact turns the shield into a parallel ground path, and then it's carrying current instead of just sitting there being a wall.
 
-![Both halves of the enclosure open on the cutting mat, every interior surface now covered in overlapping copper foil. The top half holds the perfboard with the Daisy Seed in the middle, the USB extender and right-angle adapter across the bottom, two red footswitches at the left and the two panel jacks stacked at the right. The bottom half has the battery holder taped down under foil and the red and black battery leads crossing to a pair of pins.](assets/the-lined-box.jpg)
+![Both halves of the enclosure open side by side on the cutting mat, every interior surface now covered in overlapping copper foil. The left half holds the perfboard with the Daisy Seed in the middle, the two panel jacks at its top corners, the USB extender and purple right-angle adapter down its right edge and two red footswitches along the bottom. The right half has the battery holder taped down under foil and the red and black battery leads crossing to a pair of pins.](assets/the-lined-box.jpg)
 
 Same rig. Same interface, same gain. Same battery. Cable in, nothing playing.
 
