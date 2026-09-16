@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="316.8pt" viewBox="0 0 720 316.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-16T16:11:36.932773</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 316.8 
+L 720 316.8 
+L 720 0 
+L 0 0 
+z
+" style="fill: #fbfaf8"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 139.68 289.20384 
+L 709.2 289.20384 
+L 709.2 43.67875 
+L 139.68 43.67875 
+z
+" style="fill: #fbfaf8"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 139.68 82.73956 
+L 335.272727 82.73956 
+L 335.272727 64.88319 
+L 139.68 64.88319 
+z
+" clip-path="url(#p9a209b05b0)" style="fill: url(#h61bd6a6c9b); opacity: 0.55; stroke: #fbfaf8; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 139.68 100.59593 
+L 507.854545 100.59593 
+L 507.854545 82.73956 
+L 139.68 82.73956 
+z
+" clip-path="url(#p9a209b05b0)" style="fill: #2c5aa0; opacity: 0.9; stroke: #fbfaf8; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 139.68 138.540717 
+L 514.086667 138.540717 
+L 514.086667 120.684346 
+L 139.68 120.684346 
+z
+" clip-path="url(#p9a209b05b0)" style="fill: url(#h61bd6a6c9b); opacity: 0.55; stroke: #fbfaf8; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 139.68 156.397087 
+L 301.044 156.397087 
+L 301.044 138.540717 
+L 139.68 138.540717 
+z
+" clip-path="url(#p9a209b05b0)" style="fill: #2c5aa0; opacity: 0.9; stroke: #fbfaf8; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 139.68 194.341873 
+L 229.678222 194.341873 
+L 229.678222 176.485503 
+L 139.68 176.485503 
+z
+" clip-path="url(#p9a209b05b0)" style="fill: url(#h61bd6a6c9b); opacity: 0.55; stroke: #fbfaf8; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 139.68 212.198244 
+L 499.672889 212.198244 
+L 499.672889 194.341873 
+L 139.68 194.341873 
+z
+" clip-path="url(#p9a209b05b0)" style="fill: #2c5aa0; opacity: 0.9; stroke: #fbfaf8; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 139.68 250.14303 
+L 142.693333 250.14303 
+L 142.693333 232.28666 
+L 139.68 232.28666 
+z
+" clip-path="url(#p9a209b05b0)" style="fill: url(#h61bd6a6c9b); opacity: 0.55; stroke: #fbfaf8; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 139.68 267.9994 
+L 525.386667 267.9994 
+L 525.386667 250.14303 
+L 139.68 250.14303 
+z
+" clip-path="url(#p9a209b05b0)" style="fill: #2c5aa0; opacity: 0.9; stroke: #fbfaf8; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <text style="fill: #2b2b2b; font: 12px 'Helvetica'; text-anchor: end" x="128.2896" y="85.730185" transform="rotate(-0 128.2896 85.730185)">usable dynamic range</text>
+   </g>
+   <g id="text_2">
+    <text style="fill: #2b2b2b; font: 10.5px 'Helvetica'; text-anchor: start" x="340.335127" y="76.483132" transform="rotate(-0 340.335127 76.483132)">51 dB  Pico V1</text>
+   </g>
+   <g id="text_3">
+    <text style="fill: #2b2b2b; font: 10.5px 'Helvetica'; text-anchor: start" x="512.916945" y="94.320635" transform="rotate(-0 512.916945 94.320635)">96 dB  Daisy</text>
+   </g>
+   <g id="text_4">
+    <text style="fill: #2b2b2b; font: 12px 'Helvetica'; text-anchor: end" x="128.2896" y="141.558529" transform="rotate(-0 128.2896 141.558529)">latency, in to out</text>
+   </g>
+   <g id="text_5">
+    <text style="fill: #2b2b2b; font: 10.5px 'Helvetica'; text-anchor: start" x="519.149067" y="132.284289" transform="rotate(-0 519.149067 132.284289)">7.1 ms  Pico V1</text>
+   </g>
+   <g id="text_6">
+    <text style="fill: #2b2b2b; font: 10.5px 'Helvetica'; text-anchor: start" x="306.1064" y="150.109488" transform="rotate(-0 306.1064 150.109488)">3.06 ms  Daisy</text>
+   </g>
+   <g id="text_7">
+    <text style="fill: #2b2b2b; font: 12px 'Helvetica'; text-anchor: end" x="128.2896" y="197.332498" transform="rotate(-0 128.2896 197.332498)">IR length on one core</text>
+   </g>
+   <g id="text_8">
+    <text style="fill: #2b2b2b; font: 10.5px 'Helvetica'; text-anchor: start" x="234.740622" y="188.085446" transform="rotate(-0 234.740622 188.085446)">512 taps  Pico V1</text>
+   </g>
+   <g id="text_9">
+    <text style="fill: #2b2b2b; font: 10.5px 'Helvetica'; text-anchor: start" x="504.735289" y="205.910644" transform="rotate(-0 504.735289 205.910644)">2048 taps  Daisy</text>
+   </g>
+   <g id="text_10">
+    <text style="fill: #2b2b2b; font: 12px 'Helvetica'; text-anchor: end" x="128.2896" y="253.22178" transform="rotate(-0 128.2896 253.22178)">memory for loops</text>
+   </g>
+   <g id="text_11">
+    <text style="fill: #2b2b2b; font: 10.5px 'Helvetica'; text-anchor: start" x="147.755733" y="243.886603" transform="rotate(-0 147.755733 243.886603)">0.5 MB  Pico V1</text>
+   </g>
+   <g id="text_12">
+    <text style="fill: #2b2b2b; font: 10.5px 'Helvetica'; text-anchor: start" x="530.449067" y="261.711801" transform="rotate(-0 530.449067 261.711801)">64 MB  Daisy</text>
+   </g>
+   <g id="text_13">
+    <text style="fill: #6b6560; font: 11px 'Helvetica'; text-anchor: start" x="139.68" y="38.768248" transform="rotate(-0 139.68 38.768248)">measured on the same rig · hatched = Pico V1, solid = Daisy · each row to its own scale</text>
+   </g>
+   <g id="text_14">
+    <text style="fill: #6b6560; font: 9.5px 'Helvetica'; text-anchor: start" x="139.68" y="303.935345" transform="rotate(-0 139.68 303.935345)">V1 reached 2048 taps only by splitting the IR across both of its cores. Latency: lower is better.</text>
+   </g>
+   <g id="text_15">
+    <text style="fill: #2b2b2b; font: 700 15px 'Helvetica'; text-anchor: start" x="139.68" y="21.67875" transform="rotate(-0 139.68 21.67875)">Same front end, same job, two brains</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9a209b05b0">
+   <rect x="139.68" y="43.67875" width="569.52" height="245.52509"/>
+  </clipPath>
+ </defs>
+ <defs>
+  <pattern id="h61bd6a6c9b" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
+   <rect x="0" y="0" width="73" height="73" fill="#b2382b"/>
+   <path d="M -36 36 
+L 36 -36 
+M -30 42 
+L 42 -30 
+M -24 48 
+L 48 -24 
+M -18 54 
+L 54 -18 
+M -12 60 
+L 60 -12 
+M -6 66 
+L 66 -6 
+M 0 72 
+L 72 0 
+M 6 78 
+L 78 6 
+M 12 84 
+L 84 12 
+M 18 90 
+L 90 18 
+M 24 96 
+L 96 24 
+M 30 102 
+L 102 30 
+M 36 108 
+L 108 36 
+" style="fill: #fbfaf8; stroke: #fbfaf8; stroke-width: 1.0; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 0.55"/>
+  </pattern>
+ </defs>
+</svg>
